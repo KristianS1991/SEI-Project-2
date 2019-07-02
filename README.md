@@ -16,6 +16,8 @@
 1. Clone or download the repository.
 2. Run `npm run serve` within the repository folder in the terminal.
 
+The hosted version can be found here: https://bit.ly/2YhZpNc
+
 ## Project Scope
 For our second project, we were put into groups of two and given a timeframe of two days to complete a front-end application using React. We were to pick a theme, and implement a relevant API to populate our application with data. We were also required to use Webpack, as our module builder, for bundling and deployment purposes.
 
