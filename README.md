@@ -1,4 +1,4 @@
-# SEI Project Two, Hackathon - Front-End React Application
+# SEI Project 2 - React App - 2019
 
 ## Timeframe
 2 days
